@@ -1,13 +1,38 @@
 h1 {
-  font-family: Arial;
+  font-family: 'Pacifico', cursive;
+  font-color: black;
+  text-align: center;
+  background-color: grey;
+  margin-right: 500px;
+  margin-left: 500px;
+  border-style: solid;
+  border-color: purple
+}
+
+.smaller {
+  background-color: #FFFF33;
+  margin-right: 1245px
+}
+
+.medium {
+  background-color: #FFFF33;
+  margin-right: 1325px
+}
+
+.bigger {
+  background-color: #FFFF33;
+  margin-right: 1300px
 }
 
 h4 {
+  font-size: 28px;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 0;
 }
 
 ul, ol {
   margin-top: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .copyright {
